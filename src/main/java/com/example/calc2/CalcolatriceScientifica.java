@@ -13,7 +13,6 @@ import javafx.scene.layout.VBox;
 import javafx.scene.text.Font;
 import javafx.scene.text.FontWeight;
 import javafx.stage.Stage;
-import org.controlsfx.tools.Utils;
 
 import java.math.BigDecimal;
 import java.math.MathContext;
